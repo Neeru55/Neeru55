@@ -8,49 +8,48 @@
 </p>
 
 ---
+## 🚀 About Me  
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-## 🚀 About Me
-- 🎓 **B.Tech CSE** student at **SRM Institute of Science and Technology**, specializing in **Big Data Analytics**
-- 🤖 Passionate about **Data Science, Machine Learning, and AI**
-- 📊 Love turning raw data into actionable insights and real-world solutions
-- 🛠 Skilled in **Python, Java, SQL, Tableau**
-- 📈 Currently exploring **Microsoft Fabric** and **Advanced ML Techniques**
-- 🌍 Interested in projects that create **real impact** — especially in **agriculture, supply chain, and sustainability**
+🎓 **B.Tech CSE student** at **SRM Institute of Science and Technology**, specializing in **Big Data Analytics**  
+🤖 Passionate about **Data Science**, **Machine Learning**, and **AI**  
+📊 Love turning raw data into **actionable insights** and **real-world solutions**  
+🛠 Skilled in **Python**, **Java**, **SQL**, **Tableau**  
+📈 Currently exploring **Microsoft Fabric** and **Advanced ML Techniques**  
+🌍 Interested in projects that create **real impact** — especially in **agriculture, supply chain, and sustainability**  
 
 ---
 
-## 💼 Work
-🔭 **I’m currently working on:**  
-- Car Price Prediction App ([GitHub](https://github.com/Neeru55/car-price-prediction))  
-- Supply Chain Route Optimization with AI  
+## 💼 Work  
 
-👯 **I’m looking to collaborate on:**  
-- Data Science and Machine Learning projects  
-- Open-source AI tools  
+🔭 **Currently Working On:**  
+- 🚗 [**Car Price Prediction App**](#) *(Machine Learning + Streamlit)*  
+- 🚢 **Supply Chain Route Optimization with AI** *(Predicting delays & optimizing maritime shipping routes)*  
 
-🤝 **I’m looking for help with:**  
-- Scaling ML models for real-world deployment  
+👯 **Looking to Collaborate On:**  
+- 📈 Data Science & Machine Learning Projects  
+- 🤖 Open-Source AI Tools  
 
-🌱 **I’m currently learning:**  
-- Microsoft Fabric  
-- Advanced Time Series Forecasting  
-- AI for Sustainable Solutions  
+🤝 **Looking for Help With:**  
+- 🏗 Scaling ML models for **real-world deployment**  
 
-💬 **Ask me about:**  
+🌱 **Currently Learning:**  
+- 🖥 Microsoft Fabric  
+- ⏳ Advanced Time Series Forecasting  
+- 🌱 AI for Sustainable Solutions  
+
+💬 **Ask Me About:**  
 - Machine Learning, Data Science, Tableau, Python  
 
-📫 **How to reach me:**  
-- neeraj.rg55@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/neeraj-rg/)  
+📫 **Reach Me At:**  
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:neeraj.rg55@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](#)  
 
-👨‍💻 **All of my projects are available at:**  
-- [GitHub Profile](https://github.com/Neeru55)  
-
-📄 **Know about my experiences:**  
-- [Resume](https://drive.google.com/your-resume-link)  
+👨‍💻 **All My Projects:** [GitHub Profile](#)  
+📄 **Know About My Experiences:** [Resume](#)  
 
 💡 **Fun Fact:**  
-*"The best way to predict the future is to create it… with data." — Adapted from Alan Kay*
+> *"The best way to predict the future is to create it… with data." — Adapted from Alan Kay*
 
 ---
 
