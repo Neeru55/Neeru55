@@ -23,7 +23,7 @@
 ## 💼 Work  
 
 🔭 **Currently Working On:**  
-- 🚗 [**Car Price Prediction App**](#) *(Machine Learning + Streamlit)*  
+- 🚗 **Market Sentiment Analyzer**(#)
 - 🚢 **Supply Chain Route Optimization with AI** *(Predicting delays & optimizing maritime shipping routes)*  
 
 👯 **Looking to Collaborate On:**  
@@ -40,13 +40,6 @@
 
 💬 **Ask Me About:**  
 - Machine Learning, Data Science, Tableau, Python  
-
-📫 **Reach Me At:**  
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:neeraj.rg55@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-
-👨‍💻 **All My Projects:** [GitHub Profile](#)  
-📄 **Know About My Experiences:** [Resume](#)  
 
 💡 **Fun Fact:**  
 > *"The best way to predict the future is to create it… with data." — Adapted from Alan Kay*
@@ -110,11 +103,8 @@
 
 ## 🌟 Featured Projects
 - 🚗 **Car Price Prediction** — ML model predicting used car prices  
-  [View Project](https://github.com/Neeru55/car-price-prediction)  
-
-- 🌾 **Direct Market Access for Farmers** — Connecting farmers directly with consumers  
-  *(In progress)*
-
+  [View Project](https://github.com/Neeru55/car-price-prediction)
+  
 - 🚢 **Supply Chain Route Optimization** — AI-driven maritime delay prediction  
   *(In progress)*
 
