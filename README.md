@@ -46,19 +46,12 @@
 - Machine Learning, Data Science, Tableau, Python  
 
 💡 **Fun Fact:**  
-> *"The best way to predict the future is to create it… with data." — Adapted from Alan Kay*
 
----
+<h3 align="center" style="font-size: 1.6em;">
+  "The best way to predict the future is to create it… with data."  
+  <br>— Adapted from Alan Kay
+</h3>
 
-## 📊 My Skills Progress
-
-| Skill | Progress |
-|-------|----------|
-| Python | ![Python Progress](https://progress-bar.dev/90/?title=Expert&width=200&color=00c6ff) |
-| Machine Learning | ![ML Progress](https://progress-bar.dev/85/?title=Proficient&width=200&color=0072ff) |
-| SQL | ![SQL Progress](https://progress-bar.dev/80/?title=Advanced&width=200&color=1f4037) |
-| Tableau | ![Tableau Progress](https://progress-bar.dev/75/?title=Advanced&width=200&color=ff7e5f) |
-| Microsoft Fabric | ![Fabric Progress](https://progress-bar.dev/60/?title=Learning&width=200&color=9D50BB) |
 
 ---
 
