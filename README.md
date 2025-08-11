@@ -27,7 +27,7 @@
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
 
 🔭 **Currently Working On:**  
-- 🚗 **Car Price Prediction App** *(Machine Learning + Streamlit)*  
+- 📈 **Market Sentiment Analyzer**  
 - 🚢 **Supply Chain Route Optimization with AI** *(Predicting delays & optimizing maritime shipping routes)*  
 
 👯 **Looking to Collaborate On:**  
@@ -43,7 +43,7 @@
 - 🌱 AI for Sustainable Solutions  
 
 💬 **Ask Me About:**  
-- Machine Learning, Data Science, Tableau, Python  
+- Machine Learning, Data Science, PowerBI, Python  
 
 💡 **Fun Fact:**  
 
