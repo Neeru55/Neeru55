@@ -1,43 +1,64 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Neeraj+R+G;Empowering+Data+with+Code;Data+Science+%7C+ML+%7C+AI+Enthusiast;Turning+Data+into+Real-World+Solutions;B.Tech+CSE+%7C+Big+Data+Analytics" alt="Typing SVG" />
-</p>
+<!-- Profile Header -->
+<h1 align="center" style="font-size: 3em; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
+  Hi 👋, I'm Neeraj R G
+</h1>
+<h3 align="center">Empowering Data with Code | Aspiring Data Scientist | ML & AI Enthusiast</h3>
 
-<!-- Profile GIF -->
+<!-- Banner / GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500" alt="Data Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250">
+<img align="right" src="https://media.giphy.com/media/fXg3ajCzm3YlLQ8f9B/giphy.gif" width="280">
 
 🎓 **B.Tech CSE student** at **SRM Institute of Science and Technology**, specializing in **Big Data Analytics**  
 🤖 Passionate about **Data Science**, **Machine Learning**, and **AI**  
-📊 Turning **raw data into insights** and building **impactful solutions**  
+📊 Love turning raw data into **actionable insights** and **real-world solutions**  
 🛠 Skilled in **Python**, **Java**, **SQL**, **Tableau**  
-📈 Exploring **Microsoft Fabric** + **Advanced ML Techniques**  
-🌍 Focused on **Agriculture**, **Supply Chain**, and **Sustainability** innovations  
-
-💡 *"The best way to predict the future is to create it… with data."* — *Adapted from Alan Kay*
+📈 Currently exploring **Microsoft Fabric** and **Advanced ML Techniques**  
+🌍 Interested in projects that create **real impact** — especially in **agriculture, supply chain, and sustainability**  
 
 ---
 
-## 💼 What I’m Up To  
+## 💼 Work  
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
 
 🔭 **Currently Working On:**  
-- 🚗 [**Car Price Prediction App**](https://github.com/Neeru55/car-price-prediction) *(ML + Streamlit)*  
-- 🚢 **AI for Supply Chain Optimization** *(Maritime delay prediction)*  
+- 🚗 **Car Price Prediction App** *(Machine Learning + Streamlit)*  
+- 🚢 **Supply Chain Route Optimization with AI** *(Predicting delays & optimizing maritime shipping routes)*  
 
-👯 **Collab Interests:**  
-- Data Science & ML Projects  
-- Open-Source AI Tools  
+👯 **Looking to Collaborate On:**  
+- 📈 Data Science & Machine Learning Projects  
+- 🤖 Open-Source AI Tools  
 
-🌱 **Learning:**  
-- Microsoft Fabric  
-- Time Series Forecasting  
-- AI for Sustainable Development  
+🤝 **Looking for Help With:**  
+- 🏗 Scaling ML models for **real-world deployment**  
+
+🌱 **Currently Learning:**  
+- 🖥 Microsoft Fabric  
+- ⏳ Advanced Time Series Forecasting  
+- 🌱 AI for Sustainable Solutions  
+
+💬 **Ask Me About:**  
+- Machine Learning, Data Science, Tableau, Python  
+
+💡 **Fun Fact:**  
+> *"The best way to predict the future is to create it… with data." — Adapted from Alan Kay*
+
+---
+
+## 📊 My Skills Progress
+
+| Skill | Progress |
+|-------|----------|
+| Python | ![Python Progress](https://progress-bar.dev/90/?title=Expert&width=200&color=00c6ff) |
+| Machine Learning | ![ML Progress](https://progress-bar.dev/85/?title=Proficient&width=200&color=0072ff) |
+| SQL | ![SQL Progress](https://progress-bar.dev/80/?title=Advanced&width=200&color=1f4037) |
+| Tableau | ![Tableau Progress](https://progress-bar.dev/75/?title=Advanced&width=200&color=ff7e5f) |
+| Microsoft Fabric | ![Fabric Progress](https://progress-bar.dev/60/?title=Learning&width=200&color=9D50BB) |
 
 ---
 
@@ -57,7 +78,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Data Science, AI & ML**
+### **Data Science, AI & Machine Learning**
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230077B5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -73,9 +94,9 @@
 ![Microsoft Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%230078D4.svg?style=for-the-badge&logo=microsoftfabric&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-%23FFCC00.svg?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%230078D4.svg?style=for-the-badge&logo=microsoftfabric&logoColor=white)
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -87,29 +108,21 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neeru55&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeru55&theme=radical" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neeru55&theme=react-dark" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Neeru55&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Neeru55&theme=tokyonight&hide_border=false" height="165"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects
-- 🚗 **Car Price Prediction** — [GitHub Repo](https://github.com/Neeru55/car-price-prediction)  
-- 🌾 **Direct Market Access for Farmers** *(In Progress)*  
-- 🚢 **Supply Chain Route Optimization** *(In Progress)*  
+## 📬 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/neeraj-r-g-8bb154287" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:neeraj.rg55@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Neeru55" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/neeraj-r-g-8bb154287)
-[![Gmail](https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:neerajganesan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeru55)
-
----
-
-⭐️ *From [Neeraj R G](https://github.com/Neeru55)*
+⭐ From [Neeraj R G](https://github.com/Neeru55)
